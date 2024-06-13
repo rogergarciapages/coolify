@@ -5,11 +5,11 @@
 
 Coolify is an open-source & self-hostable alternative to Heroku / Netlify / Vercel / etc. 
 
-It helps you to manage your servers, applications, databases on your own hardware, all you need is SSH connection. You can manage VPS, Bare Metal, Raspberry PI's anything.
+It helps you to manage your servers, applications, and databases on your own hardware, all you need is an SSH connection. You can manage VPS, Bare Metal, Raspberry PI's anything.
 
 Imagine if you could have the ease of a cloud but with your own servers. That is **Coolify**.
 
-No vendor lock-in, which means that all the configuration for your applications/databases/etc are saved to your server. So if you decide to stop using Coolify (oh nooo), you could still manage your running resources. You just lose the automations and all the magic. 🪄️
+No vendor lock-in, which means that all the configurations for your applications/databases/etc are saved to your server. So if you decide to stop using Coolify (oh nooo), you could still manage your running resources. You just lose the automations and all the magic. 🪄️
 
 For more information, take a look at our landing page [here](https://coolify.io).
 
@@ -25,7 +25,7 @@ You can find the installation script source [here](./scripts/install.sh).
 Contact us [here](https://coolify.io/docs/contact).
 
 # Donations
-To stay completely free, open-source, no feature behind paywall and evolve the project, we need your help. If you like Coolify, please consider donating to help us fund the future development of the project.
+To stay completely free, and open-source, with no feature behind a paywall and evolve the project, we need your help. If you like Coolify, please consider donating to help us fund the future development of the project.
 
 https://coolify.io/sponsorships
 
